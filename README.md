@@ -14,3 +14,6 @@ Geschichte
 
 Quelle
 * https://de.wikipedia.org/wiki/Gunskirchen
+
+Bild
+![Bild](images/logo.png)
